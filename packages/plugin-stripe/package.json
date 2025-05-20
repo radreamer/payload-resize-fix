@@ -68,7 +68,7 @@
     "uuid": "10.0.0"
   },
   "devDependencies": {
-    "@payloadcms/eslint-config": "3.38.0",
+    "@payloadcms/eslint-config": "3.28.0",
     "@payloadcms/next": "3.38.0",
     "@types/lodash.get": "^4.4.7",
     "@types/react": "19.1.0",

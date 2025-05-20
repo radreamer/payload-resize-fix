@@ -65,7 +65,7 @@
     "escape-html": "^1.0.3"
   },
   "devDependencies": {
-    "@payloadcms/eslint-config": "3.38.0",
+    "@payloadcms/eslint-config": "3.28.0",
     "@types/escape-html": "^1.0.4",
     "@types/react": "19.1.0",
     "@types/react-dom": "19.1.2",

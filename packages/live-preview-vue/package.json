@@ -44,7 +44,7 @@
     "@payloadcms/live-preview": "3.38.0"
   },
   "devDependencies": {
-    "@payloadcms/eslint-config": "3.38.0",
+    "@payloadcms/eslint-config": "3.28.0",
     "payload": "3.38.0",
     "vue": "^3.0.0"
   },

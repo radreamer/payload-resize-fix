@@ -61,7 +61,7 @@
   },
   "devDependencies": {
     "@libsql/client": "0.14.0",
-    "@payloadcms/eslint-config": "3.38.0",
+    "@payloadcms/eslint-config": "3.28.0",
     "@types/pg": "8.10.2",
     "@types/to-snake-case": "1.0.0",
     "payload": "3.38.0"

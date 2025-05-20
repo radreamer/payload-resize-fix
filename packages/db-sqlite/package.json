@@ -82,7 +82,7 @@
     "uuid": "9.0.0"
   },
   "devDependencies": {
-    "@payloadcms/eslint-config": "3.38.0",
+    "@payloadcms/eslint-config": "3.28.0",
     "@types/pg": "8.10.2",
     "@types/to-snake-case": "1.0.0",
     "@types/uuid": "10.0.0",

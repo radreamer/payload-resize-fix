@@ -86,7 +86,7 @@
   },
   "devDependencies": {
     "@hyrious/esbuild-plugin-commonjs": "^0.2.4",
-    "@payloadcms/eslint-config": "3.38.0",
+    "@payloadcms/eslint-config": "3.28.0",
     "@types/to-snake-case": "1.0.0",
     "esbuild": "0.24.2",
     "payload": "3.38.0"

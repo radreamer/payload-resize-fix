@@ -44,7 +44,7 @@
     "@payloadcms/live-preview": "3.38.0"
   },
   "devDependencies": {
-    "@payloadcms/eslint-config": "3.38.0",
+    "@payloadcms/eslint-config": "3.28.0",
     "@types/react": "19.1.0",
     "@types/react-dom": "19.1.2",
     "payload": "3.38.0"

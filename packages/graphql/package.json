@@ -58,7 +58,7 @@
     "tsx": "4.19.2"
   },
   "devDependencies": {
-    "@payloadcms/eslint-config": "3.38.0",
+    "@payloadcms/eslint-config": "3.28.0",
     "@types/pluralize": "^0.0.33",
     "graphql-http": "^1.22.0",
     "payload": "3.38.0"

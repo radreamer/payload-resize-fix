@@ -78,7 +78,7 @@
     "qs-esm": "7.0.2"
   },
   "devDependencies": {
-    "@payloadcms/eslint-config": "3.38.0",
+    "@payloadcms/eslint-config": "3.28.0",
     "@payloadcms/ui": "3.38.0",
     "payload": "3.38.0"
   },
