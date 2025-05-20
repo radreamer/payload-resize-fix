@@ -47,13 +47,13 @@
   },
   "dependencies": {
     "@google-cloud/storage": "^7.7.0",
-    "@payloadcms/plugin-cloud-storage": "workspace:*"
+    "@payloadcms/plugin-cloud-storage": "3.38.0"
   },
   "devDependencies": {
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "peerDependencies": {
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "engines": {
     "node": "^18.20.2 || >=20.9.0"

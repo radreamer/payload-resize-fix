@@ -74,7 +74,7 @@
     "renamePredefinedMigrations": "node --no-deprecation --import @swc-node/register/esm-register ./scripts/renamePredefinedMigrations.ts"
   },
   "dependencies": {
-    "@payloadcms/drizzle": "workspace:*",
+    "@payloadcms/drizzle": "3.38.0",
     "@types/pg": "8.10.2",
     "console-table-printer": "2.12.1",
     "drizzle-kit": "0.28.0",
@@ -86,13 +86,13 @@
   },
   "devDependencies": {
     "@hyrious/esbuild-plugin-commonjs": "^0.2.4",
-    "@payloadcms/eslint-config": "workspace:*",
+    "@payloadcms/eslint-config": "3.38.0",
     "@types/to-snake-case": "1.0.0",
     "esbuild": "0.24.2",
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "peerDependencies": {
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "publishConfig": {
     "exports": {

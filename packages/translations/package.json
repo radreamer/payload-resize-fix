@@ -57,7 +57,7 @@
     "date-fns": "4.1.0"
   },
   "devDependencies": {
-    "@payloadcms/eslint-config": "workspace:*",
+    "@payloadcms/eslint-config": "3.38.0",
     "@swc/core": "1.10.12",
     "@types/react": "19.1.0",
     "@types/react-dom": "19.1.2",

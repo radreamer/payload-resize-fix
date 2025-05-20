@@ -45,17 +45,17 @@
     "@aws-sdk/client-s3": "^3.614.0",
     "@aws-sdk/credential-providers": "^3.614.0",
     "@aws-sdk/lib-storage": "^3.614.0",
-    "@payloadcms/email-nodemailer": "workspace:*",
+    "@payloadcms/email-nodemailer": "3.38.0",
     "amazon-cognito-identity-js": "^6.1.2",
     "nodemailer": "6.9.16"
   },
   "devDependencies": {
     "@types/jest": "29.5.12",
     "@types/nodemailer": "6.4.17",
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "peerDependencies": {
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "publishConfig": {
     "exports": {

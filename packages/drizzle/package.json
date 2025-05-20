@@ -61,13 +61,13 @@
   },
   "devDependencies": {
     "@libsql/client": "0.14.0",
-    "@payloadcms/eslint-config": "workspace:*",
+    "@payloadcms/eslint-config": "3.38.0",
     "@types/pg": "8.10.2",
     "@types/to-snake-case": "1.0.0",
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "peerDependencies": {
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "publishConfig": {
     "exports": {

@@ -59,17 +59,17 @@
     "test": "echo \"Error: no tests specified\""
   },
   "dependencies": {
-    "@payloadcms/next": "workspace:*",
-    "@payloadcms/ui": "workspace:*"
+    "@payloadcms/next": "3.38.0",
+    "@payloadcms/ui": "3.38.0"
   },
   "devDependencies": {
-    "@payloadcms/eslint-config": "workspace:*",
+    "@payloadcms/eslint-config": "3.38.0",
     "@types/react": "19.1.0",
     "@types/react-dom": "19.1.2",
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "peerDependencies": {
-    "payload": "workspace:*",
+    "payload": "3.38.0",
     "react": "^19.0.0 || ^19.0.0-rc-65a56d0e-20241020",
     "react-dom": "^19.0.0 || ^19.0.0-rc-65a56d0e-20241020"
   },

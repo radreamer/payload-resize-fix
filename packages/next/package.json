@@ -88,9 +88,9 @@
   },
   "dependencies": {
     "@dnd-kit/core": "6.0.8",
-    "@payloadcms/graphql": "workspace:*",
-    "@payloadcms/translations": "workspace:*",
-    "@payloadcms/ui": "workspace:*",
+    "@payloadcms/graphql": "3.38.0",
+    "@payloadcms/translations": "3.38.0",
+    "@payloadcms/ui": "3.38.0",
     "busboy": "^1.6.0",
     "dequal": "2.0.3",
     "file-type": "19.3.0",
@@ -110,7 +110,7 @@
     "@babel/preset-react": "7.26.3",
     "@babel/preset-typescript": "7.26.0",
     "@next/eslint-plugin-next": "15.3.0",
-    "@payloadcms/eslint-config": "workspace:*",
+    "@payloadcms/eslint-config": "3.38.0",
     "@types/busboy": "1.5.4",
     "@types/react": "19.1.0",
     "@types/react-dom": "19.1.2",
@@ -118,13 +118,13 @@
     "babel-plugin-react-compiler": "19.0.0-beta-e993439-20250405",
     "esbuild": "0.24.2",
     "esbuild-sass-plugin": "3.3.1",
-    "payload": "workspace:*",
+    "payload": "3.38.0",
     "swc-plugin-transform-remove-imports": "3.1.0"
   },
   "peerDependencies": {
     "graphql": "^16.8.1",
     "next": "^15.2.3",
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "engines": {
     "node": "^18.20.2 || >=20.9.0"

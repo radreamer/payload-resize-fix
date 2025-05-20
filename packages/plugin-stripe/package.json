@@ -61,23 +61,23 @@
     "prepublishOnly": "pnpm clean && pnpm turbo build"
   },
   "dependencies": {
-    "@payloadcms/translations": "workspace:*",
-    "@payloadcms/ui": "workspace:*",
+    "@payloadcms/translations": "3.38.0",
+    "@payloadcms/ui": "3.38.0",
     "lodash.get": "^4.4.2",
     "stripe": "^10.2.0",
     "uuid": "10.0.0"
   },
   "devDependencies": {
-    "@payloadcms/eslint-config": "workspace:*",
-    "@payloadcms/next": "workspace:*",
+    "@payloadcms/eslint-config": "3.38.0",
+    "@payloadcms/next": "3.38.0",
     "@types/lodash.get": "^4.4.7",
     "@types/react": "19.1.0",
     "@types/react-dom": "19.1.2",
     "@types/uuid": "10.0.0",
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "peerDependencies": {
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "publishConfig": {
     "exports": {

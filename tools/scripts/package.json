@@ -28,20 +28,20 @@
   },
   "dependencies": {
     "@swc-node/register": "1.10.9",
-    "@tools/constants": "workspace:*",
-    "@tools/releaser": "workspace:*",
+    "@tools/constants": "3.38.0",
+    "@tools/releaser": "3.38.0",
     "chalk": "^4.1.2",
     "changelogen": "^0.5.5",
-    "create-payload-app": "workspace:*",
+    "create-payload-app": "3.38.0",
     "csv-stringify": "^6.5.2",
     "license-checker": "25.0.1",
     "open": "^10.1.0",
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "devDependencies": {
-    "@payloadcms/plugin-import-export": "workspace:*",
-    "@payloadcms/plugin-multi-tenant": "workspace:*",
-    "@payloadcms/richtext-lexical": "workspace:*",
-    "@payloadcms/translations": "workspace:*"
+    "@payloadcms/plugin-import-export": "3.38.0",
+    "@payloadcms/plugin-multi-tenant": "3.38.0",
+    "@payloadcms/richtext-lexical": "3.38.0",
+    "@payloadcms/translations": "3.38.0"
   }
 }

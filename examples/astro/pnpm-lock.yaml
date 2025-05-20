@@ -78,7 +78,7 @@ importers:
         specifier: 3.11.0
         version: 3.11.0(graphql@16.10.0)(monaco-editor@0.52.2)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(typescript@5.7.2)
       payload-app:
-        specifier: workspace:*
+        specifier: 3.38.0
         version: link:../payload
 
 packages:

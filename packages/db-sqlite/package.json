@@ -73,7 +73,7 @@
   },
   "dependencies": {
     "@libsql/client": "0.14.0",
-    "@payloadcms/drizzle": "workspace:*",
+    "@payloadcms/drizzle": "3.38.0",
     "console-table-printer": "2.12.1",
     "drizzle-kit": "0.28.0",
     "drizzle-orm": "0.36.1",
@@ -82,14 +82,14 @@
     "uuid": "9.0.0"
   },
   "devDependencies": {
-    "@payloadcms/eslint-config": "workspace:*",
+    "@payloadcms/eslint-config": "3.38.0",
     "@types/pg": "8.10.2",
     "@types/to-snake-case": "1.0.0",
     "@types/uuid": "10.0.0",
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "peerDependencies": {
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "publishConfig": {
     "exports": {

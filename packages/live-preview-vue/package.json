@@ -41,11 +41,11 @@
     "prepublishOnly": "pnpm clean && pnpm turbo build"
   },
   "dependencies": {
-    "@payloadcms/live-preview": "workspace:*"
+    "@payloadcms/live-preview": "3.38.0"
   },
   "devDependencies": {
-    "@payloadcms/eslint-config": "workspace:*",
-    "payload": "workspace:*",
+    "@payloadcms/eslint-config": "3.38.0",
+    "payload": "3.38.0",
     "vue": "^3.0.0"
   },
   "peerDependencies": {

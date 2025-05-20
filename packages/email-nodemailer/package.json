@@ -45,10 +45,10 @@
   },
   "devDependencies": {
     "@types/nodemailer": "6.4.17",
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "peerDependencies": {
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "engines": {
     "node": "^18.20.2 || >=20.9.0"

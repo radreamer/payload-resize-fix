@@ -41,8 +41,8 @@
     "prepublishOnly": "pnpm clean && pnpm turbo build"
   },
   "devDependencies": {
-    "@payloadcms/eslint-config": "workspace:*",
-    "payload": "workspace:*"
+    "@payloadcms/eslint-config": "3.38.0",
+    "payload": "3.38.0"
   },
   "publishConfig": {
     "exports": {

@@ -87,15 +87,15 @@
     "prepublishOnly": "pnpm clean && pnpm turbo build"
   },
   "devDependencies": {
-    "@payloadcms/eslint-config": "workspace:*",
-    "@payloadcms/translations": "workspace:*",
-    "@payloadcms/ui": "workspace:*",
-    "payload": "workspace:*"
+    "@payloadcms/eslint-config": "3.38.0",
+    "@payloadcms/translations": "3.38.0",
+    "@payloadcms/ui": "3.38.0",
+    "payload": "3.38.0"
   },
   "peerDependencies": {
-    "@payloadcms/ui": "workspace:*",
+    "@payloadcms/ui": "3.38.0",
     "next": "^15.2.3",
-    "payload": "workspace:*"
+    "payload": "3.38.0"
   },
   "publishConfig": {
     "exports": {
